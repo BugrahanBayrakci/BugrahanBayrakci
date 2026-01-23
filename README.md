@@ -35,14 +35,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugrahanBayrakci/BugrahanBayrakci/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BugrahanBayrakci/BugrahanBayrakci/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BugrahanBayrakci/BugrahanBayrakci/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br />
 
 # 📊 Github Stats
@@ -67,6 +59,3 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BugrahanBayrakci&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-</div>
