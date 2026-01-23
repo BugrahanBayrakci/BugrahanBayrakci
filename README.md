@@ -6,7 +6,7 @@
 </div>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlkNTBoMWRweDUxcTBlZGF5N2tncGwyYjU2aXdqcjEyNXk5Nno0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 
 <h3 align="left">&nbsp; from Türkiye</h3>
