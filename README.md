@@ -21,6 +21,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bugrahanbayrakci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugrahanbayrakci" height="30" width="40" /></a>
   <a href="https://medium.com/@bugrahanbayrakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bugrahanbayrakci" height="30" width="40" /></a>
+  <a href="https://bugrahanbayrakci.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Personal Website" height="30" width="40" /></a>
 </p>
 
 <br clear="right"/>
