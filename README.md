@@ -2,8 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=BugrahanBayrakci&color=blue)
 <div align="center">
  <a href="https://github.com/BugrahanBayrakci">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Buğrahan+Bayrakci;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=M.+Bu%C4%9Frahan+Bayrak%C3%A7%C4%B1;Software+Engineer+%F0%9F%92%BB;Google+AI+Scholar+%F0%9F%8E%93;Game+Dev+Team+Lead+%F0%9F%8E%AE)](https://git.io/typing-svg) </a>
 </div>
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
