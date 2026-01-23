@@ -21,7 +21,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/bugrahanbayrakci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugrahanbayrakci" height="30" width="40" /></a>
   <a href="https://medium.com/@bugrahanbayrakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bugrahanbayrakci" height="30" width="40" /></a>
-  <a href="mailto:bugrahanbayrakci@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bugrahanbayrakci" height="30" width="40" /></a>
 </p>
 
 <br clear="right"/>
@@ -56,13 +55,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a>
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BugrahanBayrakci&theme=material-palenight&hide_border=false" alt="BugrahanBayrakci Streak" width="55%" />
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png?raw=true">
-  </a>
-</p>
+
 
 <p align="center">
   <a>
