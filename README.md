@@ -45,7 +45,6 @@ training at the Google AI Academy,blending my analytical skills with my technica
     <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png?raw=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BugrahanBayrakci&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="BugrahanBayrakci Stats" />
     <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png?raw=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BugrahanBayrakci&theme=material-palenight&hide_border=false" />
   </a>
 </p>
 
