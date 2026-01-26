@@ -8,12 +8,12 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif?raw=true" alt="Coding" width="200" height="200" align="right">
 
 
-Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. 
+-Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. 
 
-Software Expertise (Java)
+-Software Expertise (Java)
 
-Future Vision (Data & AI): To align with the future of technology, I am currently undergoing Data Science training at the Google AI Academy,
-blending my analytical skills with my technical background.
+-Future Vision (Data & AI): To align with the future of technology, I am currently undergoing Data Science
+training at the Google AI Academy,blending my analytical skills with my technical background.
 
 -  How to reach me **bugrahanbayrakci@gmail.com**
 
