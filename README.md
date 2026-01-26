@@ -9,11 +9,12 @@
 
 <h3 align="left">&nbsp; from Türkiye</h3>
 
-Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. I personally manage project lifecycles, technical coordination, and the process of bringing a product from concept to launch.
+Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. 
 
-Software Expertise (Java): I have validated my engineering foundations with a recent Java Certification. I possess a strong command of Object-Oriented Programming (OOP) and backend architectures.
+Software Expertise (Java)
 
-Future Vision (Data & AI): To align with the future of technology, I am currently undergoing Data Science training at the Google AI Academy, blending my analytical skills with my technical background.
+Future Vision (Data & AI): To align with the future of technology, I am currently undergoing Data Science training at the Google AI Academy,
+blending my analytical skills with my technical background.
 
 -  How to reach me **bugrahanbayrakci@gmail.com**
 
