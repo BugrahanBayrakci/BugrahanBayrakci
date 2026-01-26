@@ -7,7 +7,6 @@
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif?raw=true" alt="Coding" width="200" height="200" align="right">
 
-<h3 align="left">&nbsp; from Türkiye</h3>
 
 Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. 
 
