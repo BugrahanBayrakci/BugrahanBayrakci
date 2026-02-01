@@ -41,21 +41,14 @@ training at the Google AI Academy,blending my analytical skills with my technica
 # 📊 Github Stats
 
 <p align="center">
-  <a>
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BugrahanBayrakci&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="BugrahanBayrakci Stats" />
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png?raw=true">
-  </a>
+  <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png?raw=true" alt="Left Wing">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BugrahanBayrakci&theme=material-palenight&hide_border=false" alt="BugrahanBayrakci Stats" />
+  <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png?raw=true" alt="Right Wing">
 </p>
-
 
 <p align="center">
-  <a>
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugrahanBayrakci&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="BugrahanBayrakci Top Langs" />
-    <img height="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png?raw=true">
-  </a>
-</p>
-
-<br />
+  <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png?raw=true" alt="Bottom Left Wing">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugrahanBayrakci&theme=material-palenight&hide_border=false&layout=compact" alt="BugrahanBayrakci Top Langs" />
+  <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png?raw=true" alt="Bottom Right Wing">
+</p>/>
 
