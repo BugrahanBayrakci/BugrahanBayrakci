@@ -50,5 +50,4 @@ training at the Google AI Academy,blending my analytical skills with my technica
   <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png?raw=true" alt="Bottom Left Wing">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugrahanBayrakci&theme=material-palenight&hide_border=false&layout=compact" alt="BugrahanBayrakci Top Langs" />
   <img height="160" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png?raw=true" alt="Bottom Right Wing">
-</p>/>
-
+</p>
