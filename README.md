@@ -10,7 +10,7 @@
 
 -Leadership & Production: For the past 2 years, I have been actively leading a Game Development team. 
 
--Software Expertise (Java)
+-Software Expertise (Python)
 
 -Future Vision (Data & AI): To align with the future of technology, I am currently undergoing Data Science
 training at the Google AI Academy,blending my analytical skills with my technical background.
